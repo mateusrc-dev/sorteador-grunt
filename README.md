@@ -8,3 +8,7 @@
 - uglify - para comprimir arquivos js
 - htmlmin - para comprimir arquivos html
 - less - para comprimir arquivos css
+
+Deploy:
+
+✔️ https://sorteador-grunt-nine-delta.vercel.app/
